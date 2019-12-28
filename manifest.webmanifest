@@ -1,8 +1,8 @@
 {
   "name": "Einzelrangliste TuS Bommern",
   "short_name": "Einzelrangliste",
-  "theme_color": "#242830",
-  "background_color": "#242830",
+  "theme_color": "#060606",
+  "background_color": "#060606",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
