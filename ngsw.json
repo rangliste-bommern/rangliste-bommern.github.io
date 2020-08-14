@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1597403068530,
+  "timestamp": 1597409717279,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,13 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/4.0661aef7bbd98348579d.js",
         "/favicon.ico",
         "/index.html",
-        "/main.72a8d158f860a8bf8d17.js",
+        "/main.15981af2609c6544ba98.js",
         "/manifest.webmanifest",
         "/polyfills.fa70ca150ae09dfd08a8.js",
-        "/runtime.069f2c11086531ac62c2.js",
+        "/runtime.e227d1a0e31cbccbf8ec.js",
         "/styles.e6bb3fb76b3d310a9866.css"
       ],
       "patterns": []
@@ -54,7 +53,6 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/4.0661aef7bbd98348579d.js": "3944eb7957bad8f0f993644f7a53be187433e932",
     "/MaterialIcons-Regular.4674f8ded773cb03e824.eot": "26fb8cecb5512223277b4d290a24492a0f09ede1",
     "/MaterialIcons-Regular.5e7382c63da0098d634a.ttf": "fc05de31234e0090f7ddc28ce1b23af4026cb1da",
     "/MaterialIcons-Regular.83bebaf37c09c7e1c3ee.woff": "c6c953c2ccb2ca9abb21db8dbf473b5a435f0082",
@@ -74,11 +72,11 @@
     "/assets/icons/logo_96.png": "0fee40ae55acbe19a3ba59ce86209626de350921",
     "/assets/styles/bootstrap.min.css": "6063cc641dce5550b90838da1bae48db1d8e2994",
     "/favicon.ico": "d02ea24cc93fe55a9525cf3ee56c97b6b5075092",
-    "/index.html": "221b847bcc6ddb2b984ce859ef58e794d067b72f",
-    "/main.72a8d158f860a8bf8d17.js": "1799996945885d08d426a614cd396cda4367f2f1",
+    "/index.html": "a52fb373470540296d2bed83553a038dc049785f",
+    "/main.15981af2609c6544ba98.js": "c980a60aa211c835f9802fe2a8a9542996c6da0e",
     "/manifest.webmanifest": "b0296a137e2625d0bb55009bd8c7d9fa0d52c08f",
     "/polyfills.fa70ca150ae09dfd08a8.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
-    "/runtime.069f2c11086531ac62c2.js": "1d3682cc351a2e7a6b9fdf2731f0610b7d46f00e",
+    "/runtime.e227d1a0e31cbccbf8ec.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/styles.e6bb3fb76b3d310a9866.css": "a9ca0762d73deb4bd2af579cb7dd942de52fb9ce"
   },
   "navigationUrls": [

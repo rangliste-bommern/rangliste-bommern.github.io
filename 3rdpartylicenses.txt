@@ -78,9 +78,6 @@ Apache-2.0
 @firebase/component
 Apache-2.0
 
-@firebase/database
-Apache-2.0
-
 @firebase/firestore
 Apache-2.0
 
@@ -91,9 +88,6 @@ Apache-2.0
 Apache-2.0
 
 @firebase/messaging
-Apache-2.0
-
-@firebase/storage
 Apache-2.0
 
 @firebase/util
@@ -128,13 +122,9 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 firebase/app
 
-firebase/database
-
 firebase/firestore
 
 firebase/messaging
-
-firebase/storage
 
 hammerjs
 MIT
