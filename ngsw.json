@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1597401367006,
+  "timestamp": 1597403068530,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,11 +14,11 @@
         "/4.0661aef7bbd98348579d.js",
         "/favicon.ico",
         "/index.html",
-        "/main.18f15320aacf29aa90d7.js",
+        "/main.72a8d158f860a8bf8d17.js",
         "/manifest.webmanifest",
         "/polyfills.fa70ca150ae09dfd08a8.js",
         "/runtime.069f2c11086531ac62c2.js",
-        "/styles.51dc4707902e18020fa5.css"
+        "/styles.e6bb3fb76b3d310a9866.css"
       ],
       "patterns": []
     },
@@ -47,9 +47,7 @@
         "/assets/icons/logo_512.png",
         "/assets/icons/logo_72.png",
         "/assets/icons/logo_96.png",
-        "/assets/styles/bootstrap.min.css",
-        "/assets/svgs/history.svg",
-        "/assets/svgs/results.svg"
+        "/assets/styles/bootstrap.min.css"
       ],
       "patterns": []
     }
@@ -75,15 +73,13 @@
     "/assets/icons/logo_72.png": "5bfbff69238a560644378aaef0af25d33a8139c6",
     "/assets/icons/logo_96.png": "0fee40ae55acbe19a3ba59ce86209626de350921",
     "/assets/styles/bootstrap.min.css": "6063cc641dce5550b90838da1bae48db1d8e2994",
-    "/assets/svgs/history.svg": "541a8ac37b82eed98a6456512831387bed1a93c5",
-    "/assets/svgs/results.svg": "c589998b616482afb276cadf81de1d8d9df42b76",
     "/favicon.ico": "d02ea24cc93fe55a9525cf3ee56c97b6b5075092",
-    "/index.html": "c716fe4f6a8b0ea84f00ee0f960a77c13ddfde8e",
-    "/main.18f15320aacf29aa90d7.js": "0c06345471860cbf4486eb4eb844ff428108d7d9",
+    "/index.html": "221b847bcc6ddb2b984ce859ef58e794d067b72f",
+    "/main.72a8d158f860a8bf8d17.js": "1799996945885d08d426a614cd396cda4367f2f1",
     "/manifest.webmanifest": "b0296a137e2625d0bb55009bd8c7d9fa0d52c08f",
     "/polyfills.fa70ca150ae09dfd08a8.js": "b47435a9ef2a4829f2f9dfd35599bde3614981b1",
     "/runtime.069f2c11086531ac62c2.js": "1d3682cc351a2e7a6b9fdf2731f0610b7d46f00e",
-    "/styles.51dc4707902e18020fa5.css": "39dacb882af81e552f33a53746e78386374fcb7f"
+    "/styles.e6bb3fb76b3d310a9866.css": "a9ca0762d73deb4bd2af579cb7dd942de52fb9ce"
   },
   "navigationUrls": [
     {
